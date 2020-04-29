@@ -1,0 +1,14 @@
+body { 
+  background-image: url("../admin/img/fondo.jpg") no-repeat center center fixed;
+  background-image: url("../admin/img/fondo.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.panel-default {
+opacity: 0.9;
+margin-top:40px;
+}
+.form-group.last { margin-bottom:0px; }

@@ -1,0 +1,30 @@
+h2.titulo{
+	color: #084B8A;
+}
+
+h3.titulo{
+	color: #084B8A;
+}
+
+p.texto{
+	text-align: justify;
+	color: black;
+}
+
+li.funciones{
+text-align: justify;
+color: black;
+}
+
+div#navbar{
+	height: 5.5em;
+}
+
+.col-md-9.noticia:hover{
+
+    background-color: #97d3ff;
+    -webkit-box-shadow: 0px 0px 27px 0px #0C0C0D;
+    box-shadow: 0px 0px 27px 0px #0C0C0D;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
